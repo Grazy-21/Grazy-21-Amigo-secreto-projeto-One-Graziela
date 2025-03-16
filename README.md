@@ -1,6 +1,6 @@
 # Amigo-secreto-projeto-One-Graziela
 
-Este é um projeto de **Amigo Secreto** desenvolvido como parte do **One Project**. O objetivo do projeto é permitir que um grupo de pessoas sorteie seus amigos secretos de forma simples e eficiente.
+Este é um projeto de **Challenge** desenvolvido como parte do programa  **One Oracle Next Education**. O objetivo do projeto é permitir que um grupo de pessoas sorteie seus amigos secretos de forma simples e eficiente.
 
 ## Funcionalidades
 
