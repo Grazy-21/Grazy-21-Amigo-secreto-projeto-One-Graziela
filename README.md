@@ -12,7 +12,11 @@ Este é um projeto de **Challenge** desenvolvido como parte do programa  **One O
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Grazy-21/Grazy-21-Amigo-secreto-projeto-One-Graziela.git
+   git clone https://github.
+
+https://github.com/user-attachments/assets/647aa902-ce0d-448a-bfb3-f55ed6ed5d83
+
+com/Grazy-21/Grazy-21-Amigo-secreto-projeto-One-Graziela.git
 
 
 
