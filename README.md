@@ -13,3 +13,8 @@ Este é um projeto de **Challenge** desenvolvido como parte do programa  **One O
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Grazy-21/Grazy-21-Amigo-secreto-projeto-One-Graziela.git
+
+   ## Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
