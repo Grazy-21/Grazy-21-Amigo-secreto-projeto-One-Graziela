@@ -1,0 +1,15 @@
+# Amigo-secreto-projeto-One-Graziela
+
+Este é um projeto de **Amigo Secreto** desenvolvido como parte do **One Project**. O objetivo do projeto é permitir que um grupo de pessoas sorteie seus amigos secretos de forma simples e eficiente.
+
+## Funcionalidades
+
+- Sorteio de amigos secretos de forma automatizada.
+- Interface simples para interação.
+- Atribuição aleatória de amigos secretos.
+
+## Como usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Grazy-21/Grazy-21-Amigo-secreto-projeto-One-Graziela.git
